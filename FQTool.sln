@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FQTool", "FQTool\FQTool.csproj", "{11383FE9-08BC-4DD2-BC70-1091A45D9F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FQToolModel", "FQToolModel\FQToolModel.csproj", "{575DF2A2-8C1A-480A-92E4-4AABA2898146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOToolHelper", "FOToolHelper\FOToolHelper.csproj", "{4087B398-8D80-41D7-9C09-D6E453AF028F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11383FE9-08BC-4DD2-BC70-1091A45D9F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11383FE9-08BC-4DD2-BC70-1091A45D9F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11383FE9-08BC-4DD2-BC70-1091A45D9F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11383FE9-08BC-4DD2-BC70-1091A45D9F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575DF2A2-8C1A-480A-92E4-4AABA2898146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575DF2A2-8C1A-480A-92E4-4AABA2898146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575DF2A2-8C1A-480A-92E4-4AABA2898146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575DF2A2-8C1A-480A-92E4-4AABA2898146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4087B398-8D80-41D7-9C09-D6E453AF028F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4087B398-8D80-41D7-9C09-D6E453AF028F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4087B398-8D80-41D7-9C09-D6E453AF028F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4087B398-8D80-41D7-9C09-D6E453AF028F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

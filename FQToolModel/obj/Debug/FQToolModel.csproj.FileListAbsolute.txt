@@ -1,0 +1,5 @@
+E:\project\FQTool\FQToolModel\bin\Debug\FQToolModel.dll
+E:\project\FQTool\FQToolModel\bin\Debug\FQToolModel.pdb
+E:\project\FQTool\FQToolModel\obj\Debug\FQToolModel.csprojResolveAssemblyReference.cache
+E:\project\FQTool\FQToolModel\obj\Debug\FQToolModel.dll
+E:\project\FQTool\FQToolModel\obj\Debug\FQToolModel.pdb

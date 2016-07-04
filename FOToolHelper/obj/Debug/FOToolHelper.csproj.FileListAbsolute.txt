@@ -1,0 +1,14 @@
+E:\project\FQTool\FOToolHelper\bin\Debug\FOToolHelper.dll
+E:\project\FQTool\FOToolHelper\bin\Debug\FOToolHelper.pdb
+E:\project\FQTool\FOToolHelper\obj\Debug\FOToolHelper.dll
+E:\project\FQTool\FOToolHelper\obj\Debug\FOToolHelper.pdb
+E:\project\FQTool\FOToolHelper\obj\Debug\FOToolHelper.csprojResolveAssemblyReference.cache
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.dll
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.Imaging.dll
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.Math.dll
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.pdb
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.xml
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.Imaging.pdb
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.Imaging.xml
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.Math.pdb
+E:\project\FQTool\FOToolHelper\bin\Debug\AForge.Math.xml
